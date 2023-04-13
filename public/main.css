@@ -6,10 +6,11 @@
 }
 
 body {
-    overflow: hidden;
     text-align: center;
 }
 
 canvas {
-    background-color: beige;
+    width: 640px;
+    height: 480px;
+    background-color: #240254;
 }
